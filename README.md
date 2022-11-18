@@ -1,14 +1,5 @@
-Bilgisayar Programcılığından yeni mezun oldum. 
-Programlama üzerine daha eskiden herhangi bir çalışmam yok.
-İlk mesleğim fizyoterapistlik ve bugüne kadar bu
-alanla alakalı işlerde çalıştım.
-Fakat artık programlamaya yönelmek istiyorum. 
-Özellikle mobil programlama tarafı ilgimi çekiyor. 
-Bununla alakalı olarak da udemy,  youtube, 
-stackoverflow, w3school gibi platfomlardan kendimi 
-geliştirebilmek adına yararlanmaya çalışıyorum.
-Mobil programlamada ilerleyebilmek için 
-kotlin dilini kullanarak kpss ve yds çalışma
-uygulaması geliştirmeye çalıştım. 
-Mobil programlama üzerine gitmek ve bu alanda 
-bir işe girmek istiyorum
+5- 6 yıllık bir fizyoterapistim. Kariyerimde bir değişiklik yapmak istedim ve mobil programlama alanına geçmeye karar verdim. Bu maksatla bilgisayar programcılığı bölümünü bitirdim ve yeni mezun oldum. Mobil programlama alanında
+Kotlin dilini kullanarak kpss ve yds çalışma uygulaması geliştirmeye çalıştım. Şuanda Kodluyoruz'un Bootcamp Hızlandırma Programında Java dili ile çalışmalar yapıyorum. Ayrı olarak udemy, youtube, stackoverflow, w3school gibi platfomlardan da kendimi 
+geliştirebilmek adına yararlanmaya çalışıyorum. Kendimi günden güne mobil alanında geliştirmeye çalışıyorum.
+
+
